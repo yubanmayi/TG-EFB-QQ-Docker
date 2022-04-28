@@ -12,7 +12,7 @@
 # The bot token obtained from @BotFather, in the format of numbers-colon-
 # alphanumerals.
 
-token: xxx:xxx
+token: 5164090920:AAFXuXL-f96lMVvLTWgjV71epYlgATcgWXU
 
 # [List of Admin User IDs]
 # ETM will only process messages and commands from users
@@ -20,7 +20,7 @@ token: xxx:xxx
 # on Telegram.
 
 admins:
-- xxxxxxxx
+- 1999731726
 
 # Optional items
 # --------------
